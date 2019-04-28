@@ -1,4 +1,4 @@
-baseurl = "https://santiago-es.github.io"
+baseurl = "https://santiago-es.netlify.com"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 

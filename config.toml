@@ -47,6 +47,10 @@ theme = "hello-friend-ng"
         identifier = "blog"
         name = "blog"
         url ="/posts/"
+      [[languages.en.menu.main]]
+        identifier = "publications"
+        name = "publications"
+        url="/pubs"
 # And you can even create generic menu
 [menu]
   [[menu.main]]
@@ -57,3 +61,7 @@ theme = "hello-friend-ng"
     identifier = "blog"
     name       = "blog"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "publications"
+    name = "publications"
+    url = "/pubs"

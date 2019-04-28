@@ -1,0 +1,11 @@
+baseURL: santiago-es.github.io
+disablePathToLower: true
+languageCode: en-us
+title: prima facie
+theme: hello-friend-ng
+
+[menu]
+  [[menu.main]]
+    identifier: blog
+    name: blog
+    url: /post

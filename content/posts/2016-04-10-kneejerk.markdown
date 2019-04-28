@@ -1,0 +1,50 @@
+---
+title: kneejerk
+date: 2016-04-10
+
+---
+Last week was a very somber and difficult one here at UT Austin. One of our fellow longhorns, Haruka, suffered an act of brutal, senseless violence and was killed by a boy even younger than she was. Understandably, people are nervous and afraid. That being said, the likelihood of a similar attack happening again on campus (especially with the currently heightened security protocols) is close to zero. The suspect has been apprehended, the case against him, although shaky at first, is rock solid, and no other student had been slain on campus since the tower shooting of 1966. The murder was seemingly random and the motive unknown. Yet, I am spending less time on campus after dark. I leave the lab earlier and work from home more frequently. I would not be surprised if others were doing the same. In spite of my rationalizations, I am changing my behavior because of this isolated event. 
+
+That, in itself, is not surprising. We are emotional creatures and of our myriad emotions fear is one of the most universal and primal. Emotion (from the Latin, *emovere* or *to move through*)often compels us into action and sometimes in ways which start as individual expression - denial, anger, grief, vengefulness - and then begin to transform into larger political ideas - prohibition, the war on drugs, building a massive border wall. The outcome of this transformation is not *necessarily* bad policy (conversely, in many cases the outcome is very good; e.g disarming the citizenry) but it must be if the conclusions driven by the temporal cortex are never subjected to some sort of rational filter at the front of the brain. However, the ethicist's adage is true, "People rarely make important decisions for rational reasons."
+
+Take, for example, our campus' recent tragedy. I have had at least 4 different conversations since Haruka's tragic murder converge precisely at the same talking point: What are we going to do about all of the homeless people around campus? Not *should* we do something about the homeless, but *what* are we going to do? The question of whether we ought to do something about the homeless or not was answered implicitly, apparently, by the fact that the killer was homeless. Further still, questions of whether any action we might take on the entire population of homeless persons around the University would be right or practical are to be taken as *fait accompli*. 
+
+[Research](http://www.jstor.org.ezproxy.lib.utexas.edu/stable/pdf/3096817.pdf) on the subject of homelessness and criminality reveals that 12 in 1000 homeless are arrested for violent offenses, 0 in 1000 are arrested for murder (yes, that is precisely 0; that is how rare our tragedy is in the grand scope of criminology); compare that to 24 in 1000 arrested for violent offenses and 0.58 in 1000 for murder arrests among non-homeless. The linked data is from Austin, Texas 1985 but that should emphasize the dearth of research on homelessness and criminality available. Homelessness is also associated with mental illness which, in turn, is frequently (and [wrongfully](http://onlinelibrary.wiley.com.ezproxy.lib.utexas.edu/doi/10.1111/j.1745-9125.2006.00042.x/epdf)) associated with criminality. Regrettably, when tragedy strikes, the first thing people do is not try to understand it but, rather, simply react to it and when you react to something horrible the conclusion is always the same: Never again! 
+
+In light of unsettling events it is best not to jump to the kneejerk conclusion that there is anyone or anything to be held accountable every single time something terrible happens. I'm all for increased safety protocols and diligent personal vigilence, but homelessness didn't drive this kid to murder that girl. A tortured existence, an outward hatred for the world nurtured by repeated social betrayals, etc - any number of things could have motivated the killing and homelessness was a symptom of a greater social maladaption and betrayal and not the root cause of his violence. None of them justify what he did (and nothing ever could) but we cannot deny the potential darkness of the human heart and mind. When we do not treat social problems directly, we must provide an outlet or therapy for its outward manifestations, violence chiefly among them. I think Ron Kovic, a war veteran, captured the idea best, albeit in a different context: "They should be glad I came home from Vietnam and wrote a book. I could have bought a gun." 
+
+We should not focus on pushing the members of society we already marginalize out of irrational fear further into the margins but, instead, on creating a more inclusive, gentler society which does not hide from the realities of violence and terror like frightened children, does not scapegoat the vulnerable and infirm for society's own failures, does not criminalize existence, does not erase from memory the lessons people have sacrificed their lives for us to learn. 
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    
+    var disqus_config = function () {
+        this.page.url = santiago-es.github.io;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = primafacie; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//primafacie.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+																			           s.src = '//EXAMPLE.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+																					           
+																							           s.setAttribute('data-timestamp', +new Date());
+																									           (d.head || d.body).appendChild(s);
+																											       })();
+																												   </script>
+																												   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+

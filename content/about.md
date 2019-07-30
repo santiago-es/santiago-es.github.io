@@ -10,7 +10,7 @@ I interned at the National Institutes of Health in the Laboratory of Human Carci
 liver cancer and daydreaming during Grand Rounds at the Clinical Center.
 While at Texas, I also earned a degree
 in the humanities through the Plan II Honors program and was a Junior Fellow in the College of Liberal Arts. I went on to
-complete an M.Phil in Chemistry at the University of Cambridge under the mentorship of David Klenerman where I worked on a 
+complete an M.Phil in Chemistry at the University of Cambridge under the mentorship of Sir David Klenerman where I worked on a 
 project using super-resolution fluorescence microscopy to study diffraction-limited aggregates of alpha-synuclein, a protein
 which aggregates in the context of neurodegenerative disease, e.g. in Parkinson's and dementia with Lewy bodies.
 

@@ -12,7 +12,8 @@ While at Texas, I also earned a degree
 in the humanities through the Plan II Honors program and was a Junior Fellow in the College of Liberal Arts. I went on to
 complete an M.Phil in Chemistry at the University of Cambridge under the mentorship of Sir David Klenerman where I worked on a 
 project using super-resolution fluorescence microscopy to study diffraction-limited aggregates of alpha-synuclein, a protein
-which aggregates in the context of neurodegenerative disease, e.g. in Parkinson's and dementia with Lewy bodies.
+which aggregates in the context of neurodegenerative disease, e.g. in Parkinson's and dementia with Lewy bodies. I am currently a medical
+student at Stanford Medical School.
 
 This blog is an outlet for my hyperactive imagination and a place where I work through my own thoughts by attempting to write
 them down in a way that might make sense to other people. The name is *prima facie* because a lot of what I write in this blog

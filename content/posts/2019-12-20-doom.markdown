@@ -1,0 +1,62 @@
+---
+title: hope
+date: 2019-12-20
+---
+>"Once the faintest stirring of hope became possible, the dominion of the plague was ended." ~ Albert Camus, *the Plague*
+--
+![flopsy bunny](https://3.bp.blogspot.com/-3_CK9f-4StU/VYvByEz-NrI/AAAAAAAAAtI/YBne3dC3gDk/s1600/flopsy-www-scarfolk-blogspot-com.jpg)
+
+The year is 2029. The third decade of the not-so-new millennium to interject itself into my life (already well into its fourth decade (yikes)) is on its last legs. President Bezos (no relation) has at long last dissolved the United States into a patchwork of corporate fiefdoms and abandoned strip malls, albeit no one has noticed. Every synthetic surface you touch knows when you're going to die. You can now tweet from your toaster. In spite of every job yet and not-yet imagined fully under the control of artificial intelligence, I am still, somehow, in training. 
+
+The year is 2029. It has been nearly a decade since the world begun to reorder itself. I am 35 and thankful for it. There's a levitating train from San Francisco to Los Angeles. Half the country works remote. You can walk a mile in Mexico City or take deep breaths on the side of a busy street and not lose your breath. They've engineered melons that taste like honey and flowers that can sprout from concrete. Prison courtyards have been turned into gardens; cells, into booths for video chatting your doctor or voting. There is enough work for everyone and everyone takes their time doing it. People seriously consider attending their high school reunions, but still won't. Irony is dead. I am still, somehow, in training. 
+
+---
+Hope is the thing with feathers
+That perches in the soul,
+And sings the tune without the words,
+And never stops at all,
+
+And sweetest in the gale is heard;
+And sore must be the storm
+That could abash the little bird
+That kept so many warm.
+
+I've heard it in the chilliest land
+And on the strangest sea;
+Yet, never, in extremity,
+It asked a crumb of me.
+~ Emily Dickinson
+---
+
+So I wanted to write something brief about hope. Why? Because I think we'll need it. I need it. Looking at the [time-course of COVID-19 cases in the U.S.](https://coronavirus.jhu.edu/map.html), it appears that most regions in our country are now on the exponential upswing of the epidemic curve. The next few weeks will be a slow and painful reckoning of whatever we — individuals, governments, officials, healthcare workers, hospital systems — have done to prepare for this moment. But you already know that. Here's a dispatch from my guts.
+
+![this is not a scientific graph](https://thenextrecession.files.wordpress.com/2020/03/war-1.jpg)
+
+In the face of ineffable feelings or trudging through a total mental blackout I often close my eyes and imagine strings of words. What words come to mind? Do they capture the feeling, the idea? It's lyrical Kabbalah. If you can arrange them in some way do their meanings refract and coalesce into something greater like tea leaves settling at the bottom of your cup? If I could sum all of my belief into a turn of phrase, a singular and central dogma, it would be: a better world is possible. If I could name my most attendant demon, my psychic tormentor that whispers in my ear on some dark occasion it is: there is no longer anything to look forward to. To hope is to have confidence in the future. In the culture, Hope often appears as a person. People can act. For Dickinson, hope is a bird. Birds can sing. In the Christian religions, Christ is hope itself, the great hope within the promise of salvation. The bird's wordless song is the promise. 
+
+In Spanish the final book of the bible is called *Apocalipsis*. Aesthetically, the Spanish is closer to the original Greek, *apokalypsis*: an unveiling, a revelation. Our family bible is a ponderous tome. Too heavy for me to carry, pages twice as big as my face. It often sat on a stand near our front door, turned to the Psalms. At the end of this book about hope the world ends.
+
+>"The crowd is fluid. An institution is stable, solid. The foundation solidifies the crowd. Sickness and contagion invade the space — germs spread, the plague contaminates the expanse...There is destruction, violence and war. These are the images of the multitude. These are the avatars or apparitions of population. These are its performances as well. Foundation, then, is the passage from water to stone, the transition of phases...The clamor of the multiple makes noise; it suddenly takes form as hope or deception; it achieves harmony, and this harmony is the contract." ~Michel Serres, *Rome: the Book of Foundations*
+
+Old dead guys like Lucretius and Cicero associated plagues with inflection points in life-course of empire. In the opening scenes of *28 Days Later*, our protagonist wakes up from a month long coma to discover present-day London completely deserted after a novel virus decimated the world's population. His first instinct is to pick up loose notes of currency he finds in the street. It's a simple and effective bit of dramatic irony because money is a powerful and ubiquitous symbol whose relative value in the context of the scene is just as obvious, i.e completely worthless. Will the aftermath of our current apocalypse look like *that*? No, I don't think so. *But* I do believe this is an inflection point. Once this crisis passes (and it will), there will be tremendous pressure from almost every corner of our lives, within and beyond ourselves, to forget this and the next several months ever happened; however, the material reality left in the wake of the pandemic will be so overwhelming that it will be impossible to do so. Like our protagonist we will be the ones rehearsing old instincts simply for the sake of nostalgia; for those who were already content with the way things were before the inclination to this will be twice as strong. 
+
+This is an instance of collective trauma inflicted by way of natural disaster and it will etch itself into our social memory as potently as the first SARS outbreak had done in Asia. Indeed, one of the earliest signs of our pandemic anxiety were the reports of hoarding: palettes of toilet paper, bottled water, and canned foods flying from store shelves faster than they could be restocked even in the richest country in the world where abundance of especially these goods has long been billed as effectively infinite. Last year, during the peak shortage of basic goods in Venezuela, my family members were sending me pictures eerily similar to the ones I've sent them from my local grocery store of empty shelves and notices reading "1 carton of eggs per person maximum." What were we doing if not acting out a script written by the collective traumas we already hold, of hurricanes and earthquakes? Hurricanes and earthquakes are disasters that happen all at once, and with great fanfare if not always great forewarning. Plagues are slow, until they're not. They're invisible, until they're not. They are nowhere and then, just like that, *everywhere*, all at once. 
+
+The first global pandemic to take place in our mature digital age has illustrated what it looks like to capture data on every contour of a disaster as it unfolds in real time. Just not necessarily all of the data that matters. Consider that it was trivial for a company to use [anonymous cell phone data from individuals on a beach in Florida](https://www.youtube.com/watch?v=cq2zuE3ISYU) to track their exponentially increasing social contacts, but months into this crisis we are still orders of magnitude away from the viral testing capacity we need to even understand the real prevalence of the virus in the population. Among the symbolic reorientations I am hopeful we can achieve in the aftermath of the pandemic is a reorientation towards technology and surveillance. If nothing else, we should have a better sense of what kind of data really matters and what doesn't, what helps us get the data we need and what structures simply present barriers to that end.
+
+The strain workers will feel in the coming months is difficult to even begin to comprehend. Already Amazon, Instacart, and Whole Foods workers — the other frontline in this battle — are [beginning to engage in walkouts and talking about strikes](https://www.washingtonpost.com/technology/2020/03/30/worker-strike-instacart-amazon-whole-foods/) to demand the safer and improved working conditions they deserve. People whose work was not even recognized to be worth a wage capable of supporting their most basic needs, indeed whose value as human beings was a topic of casual political debate amongst the *kaloi poloi* for years and years, are now so obviously essential that it is similarly difficult to comprehend what they might achieve once they flex their power. 
+
+>"The hands that were meant to take pity on the head now twinkle from a distance. How crowded the head is with all the hands." ~ Street art I saw in Brooklyn a few years ago
+
+I feel lucky to be a medical student in this time. Chiefly because that fact has afforded me a privileged front row seat to the absolute best of humanity. In a confusing and horrifying time, I have witnessed countless stories, images, messages, and acts of kindness and solidarity through my peers, my mentors, my comrades and colleagues in every part of this country and Europe. Almost every barrier to scientific collaboration has collapsed, and exciting work from those with the expertise to seriously tackle this disease is being shared, critiqued, and absorbed by a captive audience of thousands of shuttered scientists. [Radical new methods of peer review have been invented seemingly overnight.](https://www.nature.com/articles/d41586-020-00613-4?fbclid=IwAR11iHRCx-B-5VD5T2yBRirP0hhG5SeO8mrAgIWCKeZ0zZZ1Cme_0SpOAM8) The value of open science, of sharing work in progress generously and in good faith among colleagues has never been clearer. I am hopeful this will provide the beginnings of a new way to do science, albeit at a smaller, far less anxious scale in peacetime. 
+
+April will be a hard month. There are still things to look forward to, he said to himself. 
+
+
+
+
+
+
+
+
+

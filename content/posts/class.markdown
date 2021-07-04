@@ -27,15 +27,7 @@ So, on average, med students are rich. What else is new? Given the number and ki
 
 Although there are no shortage of forces within medical training attempting to do so, unless one has been frankly lobotomized by the medical meat grinder it is self-evident that poverty and disease are inextricably linked. This fact is inescapable to anyone, not just physicians, who has spent any amount of time in a hospital or helped care for patients.
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=9GKaMB_s_pE"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9GKaMB_s_pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Physicians and physicians-in-training must reconcile this reality with the knowledge that the very same structures which have condemned tens of millions of people to live in poverty in this country will reward them with security, status, and lasting wealth beyond most working people's imagination. The length and intensity of training (+/- hundreds of thousands of dollars in debt) work to further draw out and muddy this struggle. There's a post by an anonymous dermatologist I've saved from many years ago that gets at a frequent result of this struggle, this 'thing':
 

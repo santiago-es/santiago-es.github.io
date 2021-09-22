@@ -1,6 +1,6 @@
 ---
 title: drugs 2
-date: 09-13-2021
+date: 2021-09-21
 ---
 
 As a part of the Democrat's revised 3.5 T $ revision to the already passed 1.5 T $ infrastructure bill there are many provisions intended to increase investment in "human infrastructure": healthcare, jobs, education, childcare, the social safety net more broadly. Within this enormous piece of legislation are provisions like HR3 ([link to Pelosi's summary of the bill](https://www.speaker.gov/LowerDrugCosts), [link to the congress.gov full-text of the bill](https://www.congress.gov/bill/116th-congress/house-bill/3/text)). As of writing, most progressives are aligned on rejecting the infrastructure bill without the revisions included in the more ambitious and expansive version supported by the House. This has caused some controversy among scientists and medical entrepreneurs out of fear that the very same provisions aimed at drastically slashing drug costs for people in the US will also cripple innovation and research in the biotechnology and pharmaceutical industries ("biopharma").

@@ -50,7 +50,7 @@ At the heart of racial division is the division of humans on the basis of innate
 
 Here's a very recent example to illustrate what I mean. Recently, a white supremacist terrorist murdered several people in a Black neighborhood of Buffalo, New York after posting a racist manifesto online. That manifesto cites papers from behavioral geneticists who have attempted to "explain" perceived racial gaps in certain phenotypes. Often the papers themselves are not explicitly about race. For example, one paper which was cited attempted to use GWAS to identify polygenic markers predictive of educational attainment, claiming that their data showed a greater role for genetics in predicting educational attainment, and therefore intelligence, than previously thought.  In the ensuing discussion about whether or not scientists should take responsibility for foreseeing the (extremely obvious, literally surface-level) intellectual consequences of their work, the author defended themselves by claiming that their paper simply does not support racism. 
 
-![whoops](https://pbs.twimg.com/media/FS0PrOXWQAEbRUi?format=jpg&name=large)
+![whoops](https://pbs.twimg.com/media/FS0PrOXWQAEbRUi?format=jpg&name=small)
 
 It doesn't take a geneticist to immediately see the way a eugenicist might leverage research like this for their ends (I would go further and say one would have to be knee-deep in eugenics themselves to even conceive of a study like this as being worthwhile), but for the purposes of the blog post lets walk through the racist thought exercise: 
 

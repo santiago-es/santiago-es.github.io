@@ -5,6 +5,9 @@ date: 2019-04-27T19:35:43-05:00
 
 #*science*
 
+Sanchez, S.E *et al*. "AlphaSynucleinonlyFormsFibrilsIn VitrowhenLargerthanits CriticalSize of 70 Monomers." [ChemBioChem](https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/cbic.202100285)
+August 2021.
+
 Whiten, D.R. *et al*. "Nanoscopic Characterisation of Individual Endogenous Protein Aggregates in Human Neuronal Cells."
 [ChemBioChem](https://onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800209).
 July 2018.

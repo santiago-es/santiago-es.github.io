@@ -1,6 +1,6 @@
 ---
 title: biological warfare
-date: 06-23-2022
+date: 2022-06-23
 ---
 
 	There are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says, “Morning, boys, how's the water?” And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, “What the hell is water?” -- David Foster Wallace, "This is Water"

@@ -11,6 +11,10 @@ Race is the nightmare from which this country simply will not wake. From this co
 
 This blog post will not be enumerating a long list of examples of scientific racism (that would take several book-length posts), but rather I want to reflect on a phenomenon I've noticed whenever discussions of race come up in bio/medical spaces and that is the frequency with which people -- even putatively "anti-racist" people -- unwittingly and uncritically accept the logic of racists from the outset.
 
+As a preamble, [I'd like to be provide ten facts on what race is and is not from *Racism not Race* by Joseph L. Graves, Jr. and Alan H. Goodman](https://magazine.scienceforthepeople.org/online/racism-not-race-excerpt/). Keep these in mind as we delve into the racist logic which permeates not just the history of science but modern day scientific discourse, with varying levels of acknowledgement. 
+
+!["From *Racism not Race* by Joseph L. Graves, Jr. and Alan H. Goodman](https://i.imgur.com/rXS40HX.png)
+
 ## The Logic of Racists
 ## 
 

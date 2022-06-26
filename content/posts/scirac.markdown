@@ -1,5 +1,5 @@
 ---
-title: biological warfare
+title: science, scientists, and the logic of racism
 date: 2022-06-23
 ---
 

@@ -5,8 +5,9 @@ date: 2022-08-28
 
 The year is 2022, USA, a lone adult oncologist leads a personal crusade against the American Academy of Pediatrics for reasons. What are these reasons? Are they stupid? Dear reader, they are far more stupid than you can possibly imagine –– but not stupid enough, apparently, to prevent him from calling for the dissolution of the nearly century old guild. ["The AAP is a failed organization," the oncologist writes, on account of being "captured by increasingly vocal advocates on the political left" and has "sacrificed millions in order to score a pyrrhic victory against Trump."](https://sensiblemed.substack.com/p/the-aap-american-academy-of-pediatrics) Strong words. So, how did pediatricians, and the AAP as their surrogate, abandon our nation's children? To be exceedingly brief, Vinay Prasad says its because of hubris: specifically, the hubris of forsaking science and supporting continued childhood masking in schools and remote schooling during an earlier phase of the pandemic. Let's take a closer look at his latest salvo in which he adovcates for the abolition of the AAP and the establishment of a "non-partisan" federal agency "like the CBO" which studies the impact of policies on children and is exclusively dedicated to their welfare. 
 
-![art by craiyon, "don quixote wearing a white coat fighting a windmill in the style of octavio ocampo"](https://i.imgur.com/s7f6e2m.png)
-
+<p align="center">
+  <img src="https://i.imgur.com/s7f6e2m.png" />
+</p>
 
 ## Peanuts
 

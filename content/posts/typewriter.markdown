@@ -2,6 +2,7 @@
 title: the infinite typewriter
 date: 2022-12-12
 ---
+
 "To speak is to commit tautologies." - Jorge Luis Borges, "The Library"
 
 >“Forty two!” yelled Loonquawl. Is that all you’ve got to show for seven and a half million years work?

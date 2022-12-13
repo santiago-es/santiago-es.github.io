@@ -1,6 +1,6 @@
 ---
 title: should clerkships be graded?
-Date: 04-13-2022
+Date: 2022-04-13
 ---
 This blog post is going to be niche med student content, my apologies in advance. 
 

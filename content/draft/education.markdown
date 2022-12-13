@@ -1,6 +1,6 @@
 ---
 title: what is a medical education for? 
-date: 12-13-2021
+date: 2021-12-13
 ---
 
 Three years into grad school, I've officially finished my first quarter of grad school-- no, no that one, the other one. Calling medical school "grad school" is misleading, for a couple of reasons. Most of all because medical school is actually considered "undergraduate" medical education or UME (although one does earn a doctorate at the end of it), and the "grad school" of medicine is residency, aka graduate medical education or GME. Anyways, two years and one board exam later, I'm now fully a PhD student. It's an adjustment, but a good one, on balance. I'm struggling with learning and relearning skills I once had and with the already palpable feeling of losing my hard-won medical knowledge with each passing day. My knowledge of clinical medicine was already embarassingly inadequate even at its peak. Balancing medical school with lab work, trying to build a competitive application for our internal MSTP process was simply too hard. I learned enough to pass every exam, even Step 1 of the boards, and for that I'm proud and grateful, but to be quite honest a "good medical student", I was (am?) not. 
